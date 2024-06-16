@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am meester Michiel, I teach students how to develop websites from the front to the back in Antwerp City!
+
 <!--
 **meesterMichiel/meesterMichiel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
